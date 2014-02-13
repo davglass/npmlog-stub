@@ -1,0 +1,27 @@
+{
+  "name": "npmlog-stub",
+  "version": "0.0.0",
+  "description": "npmlog stub functions",
+  "main": "./npmlog-stub.js",
+  "scripts": {
+    "test": "tap ./tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/davglass/npmlog-stub.git"
+  },
+  "keywords": [
+    "npmlog",
+    "stub",
+    "testing"
+  ],
+  "author": "Dav Glass <davglass@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/davglass/npmlog-stub/issues"
+  },
+  "homepage": "https://github.com/davglass/npmlog-stub",
+  "devDependencies": {
+    "tap": "~0.4.8"
+  }
+}
