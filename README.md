@@ -22,4 +22,7 @@ log.info('This is a test');
 It will write nothing, if `npmlog` is not also installed. If it's installed
 it will be used.
 
+build status
+------------
 
+[![Build Status](https://travis-ci.org/davglass/npmlog-stub.png?branch=master)](https://travis-ci.org/davglass/npmlog-stub)
